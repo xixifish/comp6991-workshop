@@ -6,7 +6,8 @@ Weekly lab and workshop exercises for COMP6991 (Rust) at UNSW.
 
 This is a Cargo workshop. Each week is a separate package.
 
-- `week01/` -- BMP image manipulation CLI (draw pixels, lines, shapes, flags, sine wave) 
+- `week01/` -- Image Creation 
+- `week02/` -- Rust Train-ing
 
 ## Running
 
